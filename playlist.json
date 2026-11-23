@@ -1,7 +1,11 @@
 {
   "videos": [
     {
-      "title": "Flower - browser compatibility test (not UHD)",
+      "title": "4K UHD Playback Test - 3840 x 2160",
+      "src": "https://cdn.truefilesize.com/mp4/sample-4k.mp4"
+    },
+    {
+      "title": "Compatibility fallback - HD flower",
       "src": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4"
     }
   ]
