@@ -1,9 +1,8 @@
 {
-  "fit": "contain",
-  "refreshSeconds": 120,
   "videos": [
-    {"title": "Demo: Big Buck Bunny (HD sample)", "src": "https://storage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"},
-    {"title": "Demo: Elephants Dream (HD sample)", "src": "https://storage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"},
-    {"title": "Demo: For Bigger Joyrides (HD sample)", "src": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"}
+    {
+      "title": "Flower Video - Playback Test",
+      "url": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4"
+    }
   ]
 }
